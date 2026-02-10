@@ -1,3 +1,7 @@
+# 源码分析入口
+> 项目整体概览 [code_read/01-project-overview.md](code_read/01-project-overview.md)
+
+
 # 🏖️ OSS Vacation
 
 **Issue tracker and PRs reopen February 16, 2026.**
@@ -23,7 +27,6 @@ All PRs will be auto-closed until then. Approved contributors can submit PRs aft
 
 # Pi Monorepo
 
-> **Looking for the pi coding agent?** See **[packages/coding-agent](packages/coding-agent)** for installation and usage.
 
 Tools for building AI agents and managing LLM deployments.
 
