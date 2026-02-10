@@ -44,6 +44,13 @@ GitHub: https://github.com/badlogic/pi-mono
 └─────────────────────────────────────────────────────────────┘
 ```
 
+## 源码阅读顺序
+如果想快速理解整体架构，可以从 packages/coding-agent 开始，自上而下追踪调用链：
+
+  pi-coding-agent → pi-agent-core → pi-ai
+
+  这样可以先看到"成品"，再深入理解"零件"。
+
 ---
 
 ## pi-coding-agent 详解
